@@ -1,0 +1,11 @@
+slug = "titan"
+title = "titan"
+author = "ellie"
+value = 30
+description = "Only those special enough can join the Survey Corps. Are you one of them? 
+
+If you have correct answer to my questions, you'll have the flag. Perhaps running `objdump -d titan` and using last week's materials might help. `strings titan` can give you hints to the easy questions ;)"
+tags = [ "dynamic" ]
+files = [ "titan" ]
+flag = "flag{n0_0ne_is_sp3c1al_not_even_you_:)jk_you're_alright}"
+enabled = false
