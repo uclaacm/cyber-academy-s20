@@ -1,7 +1,7 @@
 slug = "titan"
 title = "titan"
 author = "ellie"
-value = 30
+value = 70
 description = "Only those special enough can join the Survey Corps. Are you one of them? 
 
 If you have correct answer to my questions, you'll have the flag. Perhaps running `objdump -d titan` and using last week's materials might help. `strings titan` can give you hints to the easy questions ;)"
