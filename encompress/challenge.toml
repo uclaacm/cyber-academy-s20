@@ -2,9 +2,9 @@ slug = "encompress"
 title = "Encompress"
 author = "defund"
 value = 60
-description = "Someone claims to have invented a method for not only encrypting, but compressing data as well! Any plaintext will be scrambled and reduced by one byte. Here's the propietary [binary](encompress); figure out if you can decrypt `d2cdc8e2ac9edda0a3a89ecbce9fb0` (hex-encoded).
+description = """Someone claims to have invented a method for not only encrypting, but compressing data as well! Any plaintext will be scrambled and reduced by one byte. Here's the propietary [binary](encompress); figure out if you can decrypt `d2cdc8e2ac9edda0a3a89ecbce9fb0` (hex-encoded).
 
-You can get a hex-encoded output by running `./encompress blahblahblah | xxd -p`."
+You can get a hex-encoded output by running `./encompress blahblahblah | xxd -p`."""
 tags = [ "dynamic" ]
 files = [ "encompress" ]
 flag = "flag{1mp0s5ibl3}"
