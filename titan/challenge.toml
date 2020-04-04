@@ -2,12 +2,10 @@ slug = "titan"
 title = "titan"
 author = "ellie"
 value = 65
-description = "Only those special enough can join the Survey Corps. Are you one of them? 
+description = """Only those special enough can join the Survey Corps. Are you one of them? If you answer my questions correctly, you'll get the flag. Use my [program](titan) to check. 
 
-If you have correct answer to my questions, you'll have the flag. Use my [program](titan) to check. 
-
-Perhaps running `objdump -d titan` and using last week's materials might help. `strings titan` can give you hints to the easy questions ;) Might also want to find where global and local variables can be found in a ELF binary."
+Perhaps running `objdump -d titan` and using last week's materials might help. Running `strings titan` can give you hints to the easy questions ;) You might also want to know where global and local variables are in an ELF binary."""
 tags = [ "dynamic" ]
 files = [ "titan" ]
 flag = "flag{n0_0ne_is_sp3c1al_not_even_you_:)jk_you're_alright}"
-enabled = false
+enabled = true

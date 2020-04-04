@@ -1,0 +1,9 @@
+slug = "REfeedback"
+title = "Feedback Form"
+author = "Ted"
+value = 10
+description = """Gimme the [feedback](https://tinyurl.com/CyberREW) boss"""
+tags = [ "assembly", "feedback" ]
+files = []
+flag = "flag{when_you_undo_something_you_are_reversing_engineering}"
+enabled = true
