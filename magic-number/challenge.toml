@@ -1,0 +1,9 @@
+slug = "magic-number"
+title = "Find the Magic Number"
+author = "Yunfan"
+value = 35
+description = "Can you find the magic number to crack this code?"
+tags = [ "dynamic" ]
+files = [ "magic-number.txt" ]
+flag = "flag{673}"
+enabled = true
