@@ -4,6 +4,6 @@ author = "Yunfan"
 value = 35
 description = "Trace through this for-loop and tell me what this returns. Count carefully!"
 tags = [ "dynamic" ]
-files = [ "count.exe" ]
+files = [ "count" ]
 flag = "flag{37}"
 enabled = true
