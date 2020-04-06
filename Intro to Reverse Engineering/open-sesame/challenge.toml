@@ -1,9 +1,0 @@
-slug = "open-sesame"
-title = "Open Says Me"
-author = "Yunfan"
-value = 40
-description = "You've found a mysterious code segment. Can you find a flag that will make it return true?"
-tags = [ "dynamic" ]
-files = [ "open-sesame.txt" ]
-flag = "flag{sl0aaell}"
-enabled = true

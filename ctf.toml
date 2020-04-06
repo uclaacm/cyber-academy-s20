@@ -1,0 +1,19 @@
+title = "ACM Cyber"
+home = """
+# Spring Quarter Workshops
+Hey everyone, welcome to Cyber's online challenge platform! Although most of us aren't on campus, that doesn't mean the workshops have to stop. This quarter's focus is on binary executables &ndash; the files your source code compiles into. This type of file contains primitive instructions that a computer **actually** follows, so it's important to understand how they work. We've divided the content into four weekly workshops, each described below.
+
+So how will these workshops work? Before anything else, join our [Discord](https://discord.gg/j9dgf2q). We'll be recording video sessions every week to teach and work through examples. And as always, there'll be more challenges for you to practice with here!
+
+## Week 2: Learning Assembly
+Eu turpis egestas pretium aenean. Vitae suscipit tellus mauris a diam maecenas sed. Consequat interdum varius sit amet mattis vulputate enim nulla. Viverra accumsan in nisl nisi scelerisque eu. Pellentesque habitant morbi tristique senectus et netus et. Egestas quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Lorem ipsum dolor sit amet consectetur adipiscing.
+
+## Week 3: Reverse Engineering
+Mauris ultrices eros in cursus turpis massa tincidunt. Tempor commodo ullamcorper a lacus. Ornare massa eget egestas purus viverra accumsan. Eget mi proin sed libero enim. Est ultricies integer quis auctor elit sed vulputate mi. Proin fermentum leo vel orci porta non pulvinar. Senectus et netus et malesuada fames ac turpis egestas. Auctor neque vitae tempus quam pellentesque nec nam aliquam sem.
+
+## Week 4: Buffer Overflows
+In est ante in nibh mauris cursus mattis molestie. Nunc non blandit massa enim nec dui. Eu feugiat pretium nibh ipsum consequat nisl vel. Consequat id porta nibh venenatis cras sed. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Malesuada bibendum arcu vitae elementum curabitur vitae. Nisl vel pretium lectus quam id leo in.
+
+## Week 5: Return-Oriented Programming
+Faucibus et molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Turpis nunc eget lorem dolor sed viverra. Diam in arcu cursus euismod quis. Magna etiam tempor orci eu lobortis. Volutpat lacus laoreet non curabitur gravida. Convallis posuere morbi leo urna molestie at elementum eu. Congue quisque egestas diam in arcu cursus euismod quis.
+"""

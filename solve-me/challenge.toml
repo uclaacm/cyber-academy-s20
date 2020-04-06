@@ -1,0 +1,9 @@
+slug = "solve-me"
+title = "Solve Me If You Can"
+author = "Yunfan"
+value = 20
+description = "If you can, determine what this [problem](solve) returns. Else, get no points. Submit the return value wrapped in `flag{}`!"
+tags = [ "assembly" ]
+files = [ "solve" ]
+flag = "flag{3}"
+enabled = true

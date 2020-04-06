@@ -1,9 +1,0 @@
-slug = "ucl-aaaaaaaaaaaaa"
-title = "UCL-AAAAAAAAAAA"
-author = "Yunfan"
-value = 25
-description = "How big is UCLA, really?"
-tags = [ "dynamic" ]
-files = [ "prob5" ]
-flag = "flag{6}"
-enabled = true

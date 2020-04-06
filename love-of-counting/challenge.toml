@@ -1,0 +1,9 @@
+slug = "love-of-counting"
+title = "For the Love of Counting"
+author = "Yunfan"
+value = 30
+description = "Trace through this [for-loop](counting) and tell me what it returns. Count carefully, and submit the return value wrapped in `flag{}`!"
+tags = [ "assembly" ]
+files = [ "counting" ]
+flag = "flag{37}"
+enabled = true

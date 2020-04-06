@@ -1,0 +1,9 @@
+slug = "magic-number"
+title = "Magic Number"
+author = "Yunfan"
+value = 30
+description = "Can you find the magic number to crack this [code](magic.cpp)? Submit the number wrapped in `flag{}`!"
+tags = [ "source" ]
+files = [ "magic.cpp" ]
+flag = "flag{673}"
+enabled = true

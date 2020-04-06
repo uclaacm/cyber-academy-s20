@@ -1,4 +1,4 @@
-bool ifElse(int x) {
+bool magic(int x) {
 	int y = x % 8;
 	if (y < 6) {
 		x = x + 150;

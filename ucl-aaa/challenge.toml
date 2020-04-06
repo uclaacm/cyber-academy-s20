@@ -1,0 +1,9 @@
+slug = "ucl-aaaaa"
+title = "UCL-AAAAA"
+author = "Yunfan"
+value = 30
+description = "How big is [UCLA](ucla), really? Submit the return value wrapped in `flag{}`!"
+tags = [ "assembly" ]
+files = [ "ucla" ]
+flag = "flag{6}"
+enabled = true

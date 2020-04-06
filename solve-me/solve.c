@@ -1,8 +1,3 @@
-#include <string>
-#include <iostream>
-#include <cassert>
-using namespace std;
-
 int main() {
 	int total = 10;
 	int counter = 0;

@@ -1,9 +1,0 @@
-slug = "if-tracker"
-title = "Solve Me If You Can"
-author = "Yunfan"
-value = 20
-description = "If you can, determine what this problem returns. Else, get no points."
-tags = [ "dynamic" ]
-files = [ "prob4" ]
-flag = "flag{3}"
-enabled = true

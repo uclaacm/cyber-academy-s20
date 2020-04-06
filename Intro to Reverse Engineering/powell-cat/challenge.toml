@@ -1,9 +1,0 @@
-slug = "powell-cat"
-title = "Powell Cat"
-author = "Yunfan"
-value = 40
-description = "Is powell cat a switch? That might be the case."
-tags = [ "dynamic" ]
-files = [ "prob6" ]
-flag = "flag{5}"
-enabled = true
