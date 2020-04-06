@@ -70,7 +70,7 @@ int main() {
     printf("===================================================================\n\n");
     printf("%s\n\n", banner);
     printf("===================================================================\n\n");
-    printf("If you can plan an amazing 5 course meal, I'll give you the flag.");
+    printf("If you can plan an amazing 5 course meal, I'll give you the flag. ");
     printf("Oh, and I'm afraid of my nemesis copying my menu choices and making me look bad so all your input must be enciphered!\n\n");
     printf("Here's the list of things my chef can cook:\n");
 
@@ -113,6 +113,6 @@ int main() {
         printf("Be sure to encase it in flag{...}\n");
     }
     else {
-        printf("\n\nYuck! What is this?! Are you trying to embarrass me? We're no trying to feed rats here!\n\n");
+        printf("\n\nYuck! What is this?! Are you trying to embarrass me? We're not trying to feed rats here!\n\n");
     }
 }
