@@ -6,6 +6,6 @@ description = """Find the password of this program!
 
 Be sure to format the flag as flag{what_you_found_as_the_flag}"""
 tags = [ "dynamic" ]
-files = [ "shorcut" ]
+files = [ "shortcut" ]
 flag = "flag{C==A7;@5<<>3=7514713}"
 enabled = false
