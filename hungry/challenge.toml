@@ -2,7 +2,7 @@ slug = "hungry"
 title = "Hungry"
 author = "ellie"
 value = 40
-description = """Hey I stole this program from my nemesis, Mr. Lobster! It's supposed to have the secrets his amazing 5 course meals. Find the flag so I can dominate muahahahaha!
+description = """Hey I stole this [program](hungry) from my nemesis, Mr. Lobster! It's supposed to have the secrets his amazing 5 course meals. Find the flag so I can dominate muahahahaha!
 
 Be sure to format the flag as flag{what_you_found_as_the_flag}"""
 tags = [ "dynamic" ]

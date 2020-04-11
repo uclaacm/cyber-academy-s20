@@ -2,7 +2,7 @@ slug = "shortcut"
 title = "Shortcut"
 author = "aaron"
 value = 30
-description = """Find the password of this program!
+description = """Find the password of this [program](shortcut)!
 
 Be sure to format the flag as flag{what_you_found_as_the_flag}"""
 tags = [ "dynamic" ]
