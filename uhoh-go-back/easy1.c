@@ -6,13 +6,7 @@
 
 char buf[FLAGSIZE];
 
-void catch() {
-    printf("falg{abcde}");
-    return;
-}
-
 int uhoh() {
-    
     printf(buf);
 }
 
@@ -20,7 +14,6 @@ void vuln() {
     char str[16];
     gets(str);
     printf("You typed in: %s", str);
-    
 }
 
 int main(int argc, char** argv) {
