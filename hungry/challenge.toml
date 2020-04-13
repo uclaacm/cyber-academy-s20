@@ -8,4 +8,4 @@ Be sure to format the flag as flag{what_you_found_as_the_flag}"""
 tags = [ "dynamic" ]
 files = [ "hungry" ]
 flag = "flag{bolah_Soarwilean}"
-enabled = false
+enabled = true

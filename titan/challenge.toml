@@ -8,4 +8,4 @@ Perhaps running `objdump -d titan` and using last week's materials might help. R
 tags = [ "dynamic" ]
 files = [ "titan" ]
 flag = "flag{n0_0ne_is_sp3c1al_not_even_you_:)jk_you're_alright}"
-enabled = false
+enabled = true

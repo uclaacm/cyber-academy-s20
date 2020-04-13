@@ -8,4 +8,4 @@ You can get a hex-encoded output by running `./encompress blahblahblah | xxd -p`
 tags = [ "dynamic" ]
 files = [ "encompress" ]
 flag = "flag{1mp0s5ibl3}"
-enabled = false
+enabled = true

@@ -1,0 +1,9 @@
+slug = "packer-hacker"
+title = "Packer Hacker"
+author = "defund"
+value = 60
+description = "Help, someone obfuscated a [binary](packer) and I can't figure out how to reverse it! They mentioned something about using a packer? Maybe look for suspicious strings in the binary."
+tags = [ "misc" ]
+files = [ "packer" ]
+flag = "flag{h0w_dar3_y0u_unp4ck_me}"
+enabled = true
