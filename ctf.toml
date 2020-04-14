@@ -3,4 +3,17 @@ home = """
 # Spring Quarter Workshops
 Hey everyone, welcome to Cyber's online challenge platform! Although most of us aren't on campus, that doesn't mean the workshops have to stop. This quarter's focus is on binary executables &ndash; the files your source code compiles into. This type of file contains primitive instructions that a computer **actually** follows, so it's important to understand how they work. We've divided the content into four weekly workshops, each described below.
 
-So how will these workshops work? Before anything else, join our [Discord](https://discord.gg/j9dgf2q). We'll be recording video sessions every week to teach and work through examples. And as always, there'll be more challenges for you to practice with here!"""
+So how will these workshops work? Before anything else, join our [Discord](https://discord.gg/j9dgf2q). We'll be recording video sessions every week to teach and work through examples. And as always, there'll be more challenges for you to practice with here!
+
+## Week 2: Basic Assembly
+What’s reverse engineering without assembly? This workshop will focus on introducing assembly language: instructions, registers, the stack, and more! We'll teach you how to dump, read, and most importantly understand code at the most basic level.
+
+## Week 3: Dynamic Analysis
+Hungry for more advanced reverse engineering? This week covers more advanced techniques for analyzing executables. Specifically, we'll be looking at how to perform dynamic analysis GDB. Pause and run programs anywhere to inspect as much as possible!
+
+## Week 4: Buffer Overflow
+Now that you can see what a program does without source code, let’s learn how to attack a program that’s not securely written! This workshop will cover a simple but classic technique: the buffer overflow. This will be the first time we cover an actual attack on binaries, so get hyped.
+
+## Week 5: Return-Oriented Programming
+Buffer overflow? That’s so last week. We’re all about return-oriented programming attacks now, so come find out how to hijack a binary and remotely execute your own code! Use this workshop to figure it out before you have to struggle with the CS 33 project ;)
+"""
