@@ -1,0 +1,9 @@
+slug = "i-wonder-if"
+title = "I wonder if..."
+author = "Alyssa"
+value = 30
+description = """I wonder if my parameter [check](wonder) will stop you from finding the flag. """
+tags = [ "buffer" ]
+files = [ "wonder" ]
+flag = "flag{if_u_cant_b3at_em_j01n_em}"
+enabled = false

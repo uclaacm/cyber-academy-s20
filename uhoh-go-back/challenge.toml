@@ -1,0 +1,9 @@
+slug = "uhoh"
+title = "Uh oh, go back!"
+author = "Alyssa"
+value = 30
+description = """This [program](nouhoh) says it doesn't run the function to return its flag, but where there's an input source there's a way..."""
+tags = [ "buffer" ]
+files = [ "nouhoh" ]
+flag = "flag{rip_r3turn_addr3s5es}"
+enabled = false

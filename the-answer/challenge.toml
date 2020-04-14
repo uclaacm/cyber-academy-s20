@@ -1,0 +1,9 @@
+slug = "the-answer"
+title = "Do you know the answer?"
+author = "Alyssa"
+value = 30
+description = """This [executable](answer) has the flag, if you know the answer. """
+tags = [ "buffer" ]
+files = [ "answer" ]
+flag = "flag{d33p_th0ught_ha5_sp0k3n}"
+enabled = false
