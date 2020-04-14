@@ -1,0 +1,9 @@
+slug = "team-formation-bonus"
+title = "Team Formation Bonus"
+author = "Sanjana"
+value = 10
+description = "Sign up for teams [here](https://tinyurl.com/CyberS20TF)!"
+tags = [ "bonus" ]
+files = []
+flag = "flag{dreamw3rk_makes_the_t3amtw3rk}"
+enabled = true
