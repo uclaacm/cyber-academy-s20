@@ -20,6 +20,8 @@ int printflag(int key) {
 void vuln() {
     char str[16];
     int b = 1;
+    printf("I wonder if I can stop you from seeing the flag with my extra trick. What do you think? \n");
+    printf("Go on, type your input: ");
     gets(str);
     printf("You typed in: %s", str);
     printflag(b);

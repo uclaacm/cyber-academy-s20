@@ -22,6 +22,8 @@ int main(int argc, char** argv) {
         printf("Flag File is Missing. Problem is Misconfigured, please contact an Admin if you are running this on the shell server.\n");
         exit(0);
     }
+    printf("I've made a secret function that prints the flag. But you'll never figure out how to run it! Unless.... uh oh..... not a buffer!\n");
+    printf("Type your buffer here: ");
     fgets(buf,FLAGSIZE,f);
     vuln();
     return 0;
