@@ -3,12 +3,20 @@
 
 #define FLAGSIZE 64
 
+void hahaha() {
+    printf("I guess I'll keep wondering. Goodbye.\n");
+}
+
 int printflag(int key) {
-    if (key)
+    if (key) {
+        hahaha();
         return;
+    }
 
     char buf[FLAGSIZE];
-    FILE *f = fopen("flag.txt","r");
+    // Disable output buffering
+    setbuf(stdout, NULL);
+    FILE *f = fopen("/ctf/flag.txt","r");
     if (f == NULL) {
         printf("Flag File is Missing. Problem is Misconfigured, please contact an Admin if you are running this on the shell server.\n");
         exit(0);
@@ -23,7 +31,7 @@ void vuln() {
     printf("I wonder if I can stop you from seeing the flag with my extra trick. What do you think? \n");
     printf("Go on, type your input: ");
     gets(str);
-    printf("You typed in: %s", str);
+    printf("You typed in: %s\n", str);
     printflag(b);
     exit(0);
 }

@@ -17,7 +17,11 @@ void vuln() {
 }
 
 int main(int argc, char** argv) {
-    FILE *f = fopen("flag.txt","r");
+    // Disable output buffering
+    setbuf(stdout, NULL);
+
+    // Use absolute path with files
+    FILE *f = fopen("/ctf/flag.txt","r");
     if (f == NULL) {
         printf("Flag File is Missing. Problem is Misconfigured, please contact an Admin if you are running this on the shell server.\n");
         exit(0);

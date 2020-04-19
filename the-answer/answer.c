@@ -5,7 +5,9 @@
 
 int printflag() {
     char buf[FLAGSIZE];
-    FILE *f = fopen("flag.txt","r");
+    // Disable output buffering
+    setbuf(stdout, NULL);
+    FILE *f = fopen("/ctf/flag.txt","r");
     if (f == NULL) {
     printf("Flag File is Missing. Problem is Misconfigured, please contact an Admin if you are running this on the shell server.\n");
     exit(0);
@@ -23,7 +25,7 @@ void vuln() {
         printflag();
     }
     else {
-        printf("Your answer wasn't right, but I suppose I'd far rather be happy than right any day. Goodbye!");
+        printf("Your answer wasn't right, but I suppose I'd far rather be happy than right any day. Goodbye!\n");
     }
 }
 
