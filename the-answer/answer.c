@@ -5,8 +5,6 @@
 
 int printflag() {
     char buf[FLAGSIZE];
-    // Disable output buffering
-    setbuf(stdout, NULL);
     FILE *f = fopen("/ctf/flag.txt","r");
     if (f == NULL) {
     printf("Flag File is Missing. Problem is Misconfigured, please contact an Admin if you are running this on the shell server.\n");
@@ -30,6 +28,8 @@ void vuln() {
 }
 
 int main(int argc, char** argv) {
+    // Disable output buffering
+    setbuf(stdout, NULL);
     vuln();
     return 0;
 }
