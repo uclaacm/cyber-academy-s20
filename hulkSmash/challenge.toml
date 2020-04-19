@@ -1,0 +1,9 @@
+slug = "hulkSmash"
+title = "Just Smash!"
+author = "Henry"
+value = 10
+description = """Just smash through the stack!"""
+tags = [ "buffer" ]
+files = [ "hulkSmash" ]
+flag = "flag{B4BY_IT'S_Z00M3R_T1M3}"
+enabled = false
