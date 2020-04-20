@@ -1,7 +1,7 @@
 slug = "hulkSmash"
 title = "Just Smash!"
 author = "Henry"
-value = 10
+value = 50
 description = """Just smash through the stack!"""
 tags = [ "buffer" ]
 files = [ "hulkSmash" ]
