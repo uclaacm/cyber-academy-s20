@@ -7,7 +7,7 @@ COPY xinetd.conf /etc/xinetd.d/ctf
 
 WORKDIR /ctf
 
-COPY nouhoh flag.txt ./
+COPY treasureMap flag.txt ./
 RUN chmod +x treasureMap
 
 EXPOSE 1337
