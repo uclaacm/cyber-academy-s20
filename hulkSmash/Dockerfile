@@ -7,7 +7,7 @@ COPY xinetd.conf /etc/xinetd.d/ctf
 
 WORKDIR /ctf
 
-COPY nouhoh flag.txt ./
+COPY hulkSmash flag.txt ./
 RUN chmod +x hulkSmash
 
 EXPOSE 1337
