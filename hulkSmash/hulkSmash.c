@@ -11,7 +11,7 @@
 void sigsegvhandler(int sig){
 
   char flag[FLAGSIZE_MAX];
-  setbuf(stdout,NULL);
+  
 
   //Use absolute path with files
   FILE *f = fopen("/ctf/flag.txt","r");
@@ -39,8 +39,8 @@ void vuln(){
 int main(int argc, char **argv){
   //triggers the SIGSEGV and call sigsegvhandler
   signal(SIGSEGV, sigsegvhandler);
-
-    vuln();
+  setbuf(stdout,NULL);
+  vuln();
   
   return 0;
 }

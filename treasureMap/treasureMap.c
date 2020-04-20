@@ -8,7 +8,6 @@
 
 void success(){
 
-  setbuf(stdout,NULL);
   char flag[FLAGSIZE];
   FILE *f = fopen("/ctf/flag.txt", "r");
 
@@ -34,6 +33,8 @@ void vuln(){
 
 
 int main(int argc, char **argv){
+  setbuf(stdout, NULL);
+
 
   vuln();
   
