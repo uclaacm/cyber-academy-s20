@@ -2,7 +2,9 @@ slug = "uhoh"
 title = "Uh oh, go back!"
 author = "Alyssa"
 value = 30
-description = """This [program](nouhoh) says it doesn't run the function to return its flag, but where there's an input source there's a way..."""
+description = """This [program](nouhoh) says it doesn't run the function to return its flag, but where there's an input source there's a way...
+
+To solve this challenge, type `nc acmcyber 10000` and enter your buffer! Wait, uh oh, I mean don't do that!"""
 tags = [ "buffer" ]
 files = [ "nouhoh" ]
 flag = "flag{rip_r3turn_addr3s5es}"
