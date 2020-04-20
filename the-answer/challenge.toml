@@ -8,4 +8,4 @@ Present your buffer to  `nc acmcyber.com 10001` to see if you can get it!"""
 tags = [ "buffer" ]
 files = [ "answer" ]
 flag = "flag{d33p_th0ught_ha5_sp0k3n}"
-enabled = false
+enabled = true

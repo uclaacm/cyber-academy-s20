@@ -1,4 +1,4 @@
-slug = "uhoh"
+slug = "uhoh-go-back"
 title = "Uh oh, go back!"
 author = "Alyssa"
 value = 30
@@ -8,4 +8,4 @@ To solve this challenge, type `nc acmcyber 10000` and enter your buffer! Wait, u
 tags = [ "buffer" ]
 files = [ "nouhoh" ]
 flag = "flag{rip_r3turn_addr3s5es}"
-enabled = false
+enabled = true

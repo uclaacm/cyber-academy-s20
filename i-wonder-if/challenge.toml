@@ -8,4 +8,4 @@ Interact with this challenge live at `nc acmcyber.com 10002` """
 tags = [ "buffer" ]
 files = [ "wonder" ]
 flag = "flag{if_u_cant_b3at_em_j01n_em}"
-enabled = false
+enabled = true

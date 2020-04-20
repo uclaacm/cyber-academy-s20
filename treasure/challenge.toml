@@ -1,9 +1,9 @@
-slug = "treasureMap"
+slug = "treasure"
 title = "Treasure!"
 author = "Henry"
 value = 50
-description = """ARGGG, Ye matey got a treasure map. Where are the treasure stored?"""
+description = """ARGGG, Ye matey got a [treasure map](treasureMap). Where are the treasure stored?"""
 tags = [ "buffer" ]
 files = [ "treasureMap" ]
 flag = "flag{y0u_ar3_r3ady_t0_del1ver_mai1}"
-enabled = false
+enabled = true
