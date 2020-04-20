@@ -17,6 +17,7 @@ void sigsegvhandler(int sig){
   FILE *f = fopen("/ctf/flag.txt","r");
   if(f == NULL){
     printf("Trouble detecting flag, please contact admin\n");
+    exit(0);
   }
   fgets(flag,FLAGSIZE_MAX,f);
 
@@ -29,7 +30,7 @@ void sigsegvhandler(int sig){
 void vuln(){
   char buf[BUFSIZE];
   printf("I see some nice speedy fingers. Use them to enter some text.\n");
-  scanf("%s", buf);
+  gets(buf);
   printf("You entered: %s\n", buf);
   
 }

@@ -26,8 +26,8 @@ void success(){
 
 void vuln(){
   char buf[BUFSIZE];
-  printf("Enter some text: \n");
-  scanf("%s", buf);
+  printf("Hmmm, how about trying to get to success: \n");
+  gets(buf);
   printf("You entered: %s\n", buf);    
   
 }
