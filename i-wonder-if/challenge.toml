@@ -1,7 +1,7 @@
 slug = "i-wonder-if"
 title = "I wonder if..."
 author = "Alyssa"
-value = 30
+value = 60
 description = """I wonder if my parameter [check](wonder) will stop you from finding the flag.
 
 Interact with this challenge live at `nc acmcyber.com 10002` """

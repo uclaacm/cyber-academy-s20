@@ -1,7 +1,7 @@
 slug = "treasure"
 title = "Treasure!"
 author = "Henry"
-value = 50
+value = 70
 description = """ARGGG, Ye matey got a [treasure map](treasureMap). Where are the treasure stored?"""
 tags = [ "buffer" ]
 files = [ "treasureMap" ]
