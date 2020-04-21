@@ -2,7 +2,9 @@ slug = "treasure"
 title = "Treasure!"
 author = "Henry"
 value = 70
-description = """ARGGG, Ye matey got a [treasure map](treasureMap). Where are the treasure stored?"""
+description = """ARGGG, Ye matey got a [treasure map](treasureMap). Where are the treasure stored?
+
+Interact with this challenge live at `nc acmcyber.com 10004`"""
 tags = [ "buffer" ]
 files = [ "treasureMap" ]
 flag = "flag{y0u_ar3_r3ady_t0_del1ver_mai1}"

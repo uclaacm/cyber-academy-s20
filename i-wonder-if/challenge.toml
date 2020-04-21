@@ -4,7 +4,7 @@ author = "Alyssa"
 value = 60
 description = """I wonder if my parameter [check](wonder) will stop you from finding the flag.
 
-Interact with this challenge live at `nc acmcyber.com 10002` """
+Interact with this challenge live at `nc acmcyber.com 10002`"""
 tags = [ "buffer" ]
 files = [ "wonder" ]
 flag = "flag{if_u_cant_b3at_em_j01n_em}"

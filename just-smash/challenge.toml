@@ -2,7 +2,9 @@ slug = "just-smash"
 title = "Just Smash!"
 author = "Henry"
 value = 60
-description = "Just [smash](hulkSmash) through the stack!"
+description = """Just [smash](hulkSmash) through the stack!
+
+Interact with this challenge live at `nc acmcyber.com 10003`"""
 tags = [ "buffer" ]
 files = [ "hulkSmash" ]
 flag = "flag{B4BY_IT'S_Z00M3R_T1M3}"
