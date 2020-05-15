@@ -6,4 +6,4 @@ description = "How big is [UCLA](ucla), really? Submit the return value wrapped 
 tags = [ "assembly" ]
 files = [ "ucla" ]
 flag = "flag{6}"
-enabled = true
+enabled = false

@@ -6,4 +6,4 @@ description = "You've found a mysterious [code segment](sesame.cpp). Can you fin
 tags = [ "source" ]
 files = [ "sesame.cpp" ]
 flag = "flag{sl0aaell}"
-enabled = true
+enabled = false

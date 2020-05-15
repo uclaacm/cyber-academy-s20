@@ -1,7 +1,7 @@
 slug = "treasure"
 title = "Treasure!"
 author = "Henry"
-value = 70
+value = 350
 description = """ARGGG, Ye matey got a [treasure map](treasureMap). Where are the treasure stored?
 
 Interact with this challenge live at `nc acmcyber.com 10004`"""

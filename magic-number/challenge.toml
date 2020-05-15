@@ -6,4 +6,4 @@ description = "Can you find the magic number to crack this [code](magic.cpp)? Su
 tags = [ "source" ]
 files = [ "magic.cpp" ]
 flag = "flag{673}"
-enabled = true
+enabled = false

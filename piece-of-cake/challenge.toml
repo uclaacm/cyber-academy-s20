@@ -1,11 +1,11 @@
 slug = "piece-of-cake"
 title = "Piece of Cake"
 author = "ellie"
-value = 20
+value = 100
 description = """We hear your complaints! Here's a problem that won't make you want to cry. Instead, you get cake! We love cake.
 
 Be sure to format the flag as flag{what_you_found_as_the_flag}"""
-tags = [ "easy dynamic" ]
+tags = [ "dynamic" ]
 files = [ "cake" ]
 flag = "flag{m@tch4_ch33s$c4k&_<3}"
-enabled = false
+enabled = true

@@ -1,7 +1,7 @@
 slug = "corgi"
 title = "Corgi"
 author = "ellie"
-value = 40
+value = 200
 description = """There's a secret in my [corgi game](corgi). Find it for me!
 
 Be sure to format the flag as flag{what_you_found_as_the_flag}"""

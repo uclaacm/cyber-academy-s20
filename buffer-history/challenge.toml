@@ -1,0 +1,9 @@
+slug = "buffer-history"
+title = "Buffer History"
+author = "defund"
+value = 100
+description = "What was one of the first (and most famous) instances of a buffer overflow called? Answer with all lowercase and no spaces."
+tags = [ "trivia" ]
+files = []
+flag = "flag{morrisworm}"
+enabled = true

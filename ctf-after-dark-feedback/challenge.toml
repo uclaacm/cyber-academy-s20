@@ -1,9 +1,9 @@
 slug = "ctf-after-dark-feedback"
 title = "CTF After Dark Feedback"
 author = "ellie"
-value = 10
+value = 50
 description = "As always, we appreciate any [feedback](https://forms.gle/Ta8UxfdUCDFj84p26) you have!"
 tags = [ "feedback" ]
 files = []
 flag = "flag{s33_you_in_2021_probably}"
-enabled = false
+enabled = true

@@ -1,7 +1,7 @@
 slug = "just-smash"
 title = "Just Smash!"
 author = "Henry"
-value = 60
+value = 300
 description = """Just [smash](hulkSmash) through the stack!
 
 Interact with this challenge live at `nc acmcyber.com 10003`"""

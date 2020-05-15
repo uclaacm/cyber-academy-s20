@@ -6,4 +6,4 @@ description = "If you can, determine what this [problem](solve) returns. Else, g
 tags = [ "assembly" ]
 files = [ "solve" ]
 flag = "flag{3}"
-enabled = true
+enabled = false

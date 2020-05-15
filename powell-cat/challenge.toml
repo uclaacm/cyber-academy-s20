@@ -1,7 +1,7 @@
 slug = "powell-cat"
 title = "Powell Cat"
 author = "Yunfan"
-value = 40
+value = 200
 description = "Is [powell cat](powell) a switch? That might be the case. Submit the return value wrapped in `flag{}`!"
 tags = [ "assembly" ]
 files = [ "powell" ]

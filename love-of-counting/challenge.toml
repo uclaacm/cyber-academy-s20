@@ -6,4 +6,4 @@ description = "Trace through this [for-loop](counting) and tell me what it retur
 tags = [ "assembly" ]
 files = [ "counting" ]
 flag = "flag{37}"
-enabled = true
+enabled = false

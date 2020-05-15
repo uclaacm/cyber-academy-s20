@@ -1,7 +1,7 @@
 slug = "uhoh-go-back"
 title = "Uh oh, go back!"
 author = "Alyssa"
-value = 60
+value = 300
 description = """This [program](nouhoh) says it doesn't run the function to return its flag, but where there's an input source there's a way...
 
 To solve this challenge, type `nc acmcyber 10000` and enter your buffer! Wait, uh oh, I mean don't do that!"""

@@ -1,7 +1,7 @@
 slug = "packer-hacker"
 title = "Packer Hacker"
 author = "defund"
-value = 60
+value = 300
 description = "Help, someone obfuscated a [binary](packer) and I can't figure out how to reverse it! They mentioned something about using a packer? Maybe look for suspicious strings in the binary."
 tags = [ "misc" ]
 files = [ "packer" ]

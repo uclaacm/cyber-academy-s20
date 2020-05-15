@@ -1,7 +1,7 @@
 slug = "the-answer"
 title = "Do you know the answer?"
 author = "Alyssa"
-value = 60
+value = 300
 description = """This [executable](answer) has the flag, if you know the answer. 
 
 Present your buffer to  `nc acmcyber.com 10001` to see if you can get it!"""

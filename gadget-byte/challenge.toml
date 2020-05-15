@@ -1,0 +1,9 @@
+slug = "gadget-byte"
+title = "Gadget Byte"
+author = "defund"
+value = 100
+description = "What's probably the most common byte found in a ROP gadget? Answer with two hex characters, all lowercase. Hint: it's in the name!"
+tags = [ "trivia" ]
+files = []
+flag = "flag{c3}"
+enabled = true
