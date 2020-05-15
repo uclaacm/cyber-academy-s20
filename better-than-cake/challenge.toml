@@ -1,0 +1,9 @@
+slug = "better-than-cake"
+title = "Better Than Cake"
+author = "defund"
+value = 100
+description = "There are a number of techniques that mitigate binary exploits, such as ASLR. However, this does not prevent ROP attacks; what is another technique that can? Answer with the acronym, all lowercase."
+tags = [ "trivia" ]
+files = []
+flag = "flag{pie}"
+enabled = true

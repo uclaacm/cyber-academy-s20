@@ -1,0 +1,9 @@
+slug = "windows-cve"
+title = "Windows CVE"
+author = "defund"
+value = 100
+description = "Windows recently had a major crypto vulnerability in its core libraries. What was the date when its CVE entry was created. Your answer should look like `flag{YYYYMMDD}`"
+tags = [ "trivia" ]
+files = []
+flag = "flag{20191104}"
+enabled = true
