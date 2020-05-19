@@ -1,0 +1,9 @@
+slug = "gamemode-3"
+title = "Gamemode 3"
+author = "Game Studio"
+value = 300
+description = "You're not invisible, you're just looking in the wrong place. Remember, the flag format is flag{flagContentHere}. Flags present themselves on the main menu after you have completed the level by touching the red square. All 3 challenges are based on the same [game](CyberGame.rar)."
+tags = [ "game" ]
+files = [ "CyberGame.rar" ]
+flag = "flag{do_a_barrel_roll}"
+enabled = false
