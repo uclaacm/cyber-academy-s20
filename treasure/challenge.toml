@@ -8,4 +8,4 @@ Interact with this challenge live at `nc acmcyber.com 10004`"""
 tags = [ "buffer" ]
 files = [ "treasureMap" ]
 flag = "flag{y0u_ar3_r3ady_t0_del1ver_mai1}"
-enabled = true
+enabled = false

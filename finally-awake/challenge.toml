@@ -1,9 +1,9 @@
 slug = "finally-awake"
 title = "You're Finally Awake"
 author = "Game Studio"
-value = 100
+value = 0
 description = "You were trying to cross the border, right? Walked right into that green wall over there... Remember, the flag format is flag{flagContentHere}. Flags present themselves on the main menu after you have completed the level by touching the red square. All 3 challenges are based on the same [game](CyberGame.rar)."
 tags = [ "game" ]
 files = [ "CyberGame.rar" ]
 flag = "flag{cheaters_never_win?}"
-enabled = false
+enabled = true
