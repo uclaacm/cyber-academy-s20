@@ -6,4 +6,4 @@ description = "As always, we appreciate any [feedback](https://forms.gle/cqXB2xj
 tags = [ "feedback" ]
 files = []
 flag = "flag{real_gamers_hack_games}"
-enabled = false
+enabled = true
