@@ -1,0 +1,9 @@
+slug = "week-8-feedback"
+title = "Week 8 Feedback"
+author = "aarinm"
+value = 10
+description = "As always, we appreciate any [feedback](https://forms.gle/cqXB2xjgNQbXhh2B7) you have!"
+tags = [ "feedback" ]
+files = []
+flag = "flag{real_gamers_hack_games}"
+enabled = false
